@@ -1,3 +1,3 @@
-# Quickstart-PhoneGap-iOS
+# TestDrive-PhoneGap-iOS
 
-This application shows the setup of Kinvey and PhoneGap on iOS. The setup is described in detail in the [PhoneGap Tutorial](http://docs.kinvey.com/js-phonegap-tutorial.html).
+Kinvey’s TestDrive for PhoneGap on iOS provides you with a blank template to get started with. It is great for learning and trying Kinvey, or to build your first application upon.
